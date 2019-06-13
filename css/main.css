@@ -2873,16 +2873,16 @@ footer .social {
 	text-align: right;
 }
 footer .footer-social {
-	display: inline-block;
-	font-size: 2.1rem;
+	display: block;
+	align-items: center;
+	width: 100%;
+	font-size: 6rem;
 	margin: 0;
-	padding: 0;
-	position: relative;
-	top: -.3rem;
+	padding: 0rem 30rem 0rem 30rem;
 }
 footer .footer-social li {
 	display: inline-block;
-	margin: 0 12px;
+	margin: 0 20px;
 	padding: 0;
 }
 footer .footer-social li a {
@@ -2895,7 +2895,7 @@ footer .copyright span::after {
 	content: "|";
 	display: inline-block;
 	padding: 0 1rem 0 1.2rem;
-	color: rgba(255, 255, 255, 0.1);
+	color: black;
 }
 footer .copyright span:last-child::after {
 	display: none;
