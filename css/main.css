@@ -2863,7 +2863,7 @@ footer {
 footer a, footer a:visited {
 	color: #FFFFFF;
 }
-footer a:hover, footer a:focus {
+footer li a:hover, footer li a:focus {
 	color: #2196f3;
 }
 footer .row {
